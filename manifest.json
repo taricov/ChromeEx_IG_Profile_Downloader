@@ -1,0 +1,22 @@
+{
+  "name": "IG Bulk Downloader",
+  "description": "A plain text description",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "./assets/ChromeExIcon/16w/Asset 116.png",
+      "48": "./assets/ChromeExIcon/48w/Asset 148.png",
+      "128": "./assets/ChromeExIcon/128w/Asset 1128.png"
+    }
+
+  },
+  "default_locale": "en",
+  "icons": {
+    "16": "./assets/ChromeExIcon/16w/Asset 116.png",
+    "48": "./assets/ChromeExIcon/48w/Asset 148.png",
+    "128": "./assets/ChromeExIcon/128w/Asset 1128.png"
+  }
+
+}
